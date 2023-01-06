@@ -70,7 +70,7 @@ console.log(document.title);
 document.title = "Title Change By Js"
 
 // body access by js
-console.log(document.body);
+// console.log(document.body);
 
 // document.body.innerHTML = "<h1>This is only JavaScript Heading...</h1>"
 
